@@ -1,1 +1,1 @@
-# Data-Analysis-of-Summer-Olympics
+# Data Analysis of Summer Olympics
